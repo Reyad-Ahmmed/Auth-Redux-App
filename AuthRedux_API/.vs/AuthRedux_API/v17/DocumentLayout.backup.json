@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\React\\Auth-Redux\\AuthRedux_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9937147D-D54B-227D-48B9-319DAB816D0F}|AuthRedux_API\\AuthRedux_API.csproj|d:\\projects\\react\\auth-redux\\authredux_api\\authredux_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9937147D-D54B-227D-48B9-319DAB816D0F}|AuthRedux_API\\AuthRedux_API.csproj|solutionrelative:authredux_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9937147D-D54B-227D-48B9-319DAB816D0F}|AuthRedux_API\\AuthRedux_API.csproj|d:\\projects\\react\\auth-redux\\authredux_api\\authredux_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9937147D-D54B-227D-48B9-319DAB816D0F}|AuthRedux_API\\AuthRedux_API.csproj|solutionrelative:authredux_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9937147D-D54B-227D-48B9-319DAB816D0F}|AuthRedux_API\\AuthRedux_API.csproj|d:\\projects\\react\\auth-redux\\authredux_api\\authredux_api\\authredux_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9937147D-D54B-227D-48B9-319DAB816D0F}|AuthRedux_API\\AuthRedux_API.csproj|solutionrelative:authredux_api\\authredux_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9937147D-D54B-227D-48B9-319DAB816D0F}|AuthRedux_API\\AuthRedux_API.csproj|d:\\projects\\react\\auth-redux\\authredux_api\\authredux_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9937147D-D54B-227D-48B9-319DAB816D0F}|AuthRedux_API\\AuthRedux_API.csproj|solutionrelative:authredux_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9937147D-D54B-227D-48B9-319DAB816D0F}|AuthRedux_API\\AuthRedux_API.csproj|d:\\projects\\react\\auth-redux\\authredux_api\\authredux_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9937147D-D54B-227D-48B9-319DAB816D0F}|AuthRedux_API\\AuthRedux_API.csproj|solutionrelative:authredux_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9937147D-D54B-227D-48B9-319DAB816D0F}|AuthRedux_API\\AuthRedux_API.csproj|d:\\projects\\react\\auth-redux\\authredux_api\\authredux_api\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9937147D-D54B-227D-48B9-319DAB816D0F}|AuthRedux_API\\AuthRedux_API.csproj|solutionrelative:authredux_api\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9937147D-D54B-227D-48B9-319DAB816D0F}|AuthRedux_API\\AuthRedux_API.csproj|d:\\projects\\react\\auth-redux\\authredux_api\\authredux_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9937147D-D54B-227D-48B9-319DAB816D0F}|AuthRedux_API\\AuthRedux_API.csproj|solutionrelative:authredux_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9937147D-D54B-227D-48B9-319DAB816D0F}|AuthRedux_API\\AuthRedux_API.csproj|d:\\projects\\react\\auth-redux\\authredux_api\\authredux_api\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9937147D-D54B-227D-48B9-319DAB816D0F}|AuthRedux_API\\AuthRedux_API.csproj|solutionrelative:authredux_api\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9937147D-D54B-227D-48B9-319DAB816D0F}|AuthRedux_API\\AuthRedux_API.csproj|d:\\projects\\react\\auth-redux\\authredux_api\\authredux_api\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9937147D-D54B-227D-48B9-319DAB816D0F}|AuthRedux_API\\AuthRedux_API.csproj|solutionrelative:authredux_api\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9937147D-D54B-227D-48B9-319DAB816D0F}|AuthRedux_API\\AuthRedux_API.csproj|d:\\projects\\react\\auth-redux\\authredux_api\\authredux_api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9937147D-D54B-227D-48B9-319DAB816D0F}|AuthRedux_API\\AuthRedux_API.csproj|solutionrelative:authredux_api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\React\\Auth-Redux\\AuthRedux_API\\AuthRedux_API\\Program.cs",
+              "RelativeDocumentMoniker": "AuthRedux_API\\Program.cs",
+              "ToolTip": "D:\\Projects\\React\\Auth-Redux\\AuthRedux_API\\AuthRedux_API\\Program.cs",
+              "RelativeToolTip": "AuthRedux_API\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T18:37:19.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\Projects\\React\\Auth-Redux\\AuthRedux_API\\AuthRedux_API\\Models\\LoginDto.cs",
+              "RelativeDocumentMoniker": "AuthRedux_API\\Models\\LoginDto.cs",
+              "ToolTip": "D:\\Projects\\React\\Auth-Redux\\AuthRedux_API\\AuthRedux_API\\Models\\LoginDto.cs",
+              "RelativeToolTip": "AuthRedux_API\\Models\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T18:37:15.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\React\\Auth-Redux\\AuthRedux_API\\AuthRedux_API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AuthRedux_API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\React\\Auth-Redux\\AuthRedux_API\\AuthRedux_API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AuthRedux_API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-13T18:37:13.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "D:\\Projects\\React\\Auth-Redux\\AuthRedux_API\\AuthRedux_API\\Helpers\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "AuthRedux_API\\Helpers\\JwtHelper.cs",
+              "ToolTip": "D:\\Projects\\React\\Auth-Redux\\AuthRedux_API\\AuthRedux_API\\Helpers\\JwtHelper.cs",
+              "RelativeToolTip": "AuthRedux_API\\Helpers\\JwtHelper.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T18:37:07.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthRedux_API.csproj",
+              "DocumentMoniker": "D:\\Projects\\React\\Auth-Redux\\AuthRedux_API\\AuthRedux_API\\AuthRedux_API.csproj",
+              "RelativeDocumentMoniker": "AuthRedux_API\\AuthRedux_API.csproj",
+              "ToolTip": "D:\\Projects\\React\\Auth-Redux\\AuthRedux_API\\AuthRedux_API\\AuthRedux_API.csproj",
+              "RelativeToolTip": "AuthRedux_API\\AuthRedux_API.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-13T18:37:03.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Projects\\React\\Auth-Redux\\AuthRedux_API\\AuthRedux_API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuthRedux_API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Projects\\React\\Auth-Redux\\AuthRedux_API\\AuthRedux_API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AuthRedux_API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T18:36:57.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\Projects\\React\\Auth-Redux\\AuthRedux_API\\AuthRedux_API\\Models\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "AuthRedux_API\\Models\\RegisterDto.cs",
+              "ToolTip": "D:\\Projects\\React\\Auth-Redux\\AuthRedux_API\\AuthRedux_API\\Models\\RegisterDto.cs",
+              "RelativeToolTip": "AuthRedux_API\\Models\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T18:37:23.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\React\\Auth-Redux\\AuthRedux_API\\AuthRedux_API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AuthRedux_API\\Models\\User.cs",
+              "ToolTip": "D:\\Projects\\React\\Auth-Redux\\AuthRedux_API\\AuthRedux_API\\Models\\User.cs",
+              "RelativeToolTip": "AuthRedux_API\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T18:37:27.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\React\\Auth-Redux\\AuthRedux_API\\AuthRedux_API\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthRedux_API\\appsettings.json",
+              "ToolTip": "D:\\Projects\\React\\Auth-Redux\\AuthRedux_API\\AuthRedux_API\\appsettings.json",
+              "RelativeToolTip": "AuthRedux_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-14T15:49:13.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Projects\\React\\Auth-Redux\\AuthRedux_API\\AuthRedux_API\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "AuthRedux_API\\Services\\UserService.cs",
+              "ToolTip": "D:\\Projects\\React\\Auth-Redux\\AuthRedux_API\\AuthRedux_API\\Services\\UserService.cs",
+              "RelativeToolTip": "AuthRedux_API\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T18:36:07.015Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
